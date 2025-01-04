@@ -8,7 +8,7 @@ This includes trendline and target line to help HR managers track progress towar
 * Excel
 * Tableau
 * Statistics
-# DAshboard Content
+# Dashboard Content
 1st Sheet: KPI of Employee Count, Attrition Count, Attrition Rate, Active Employees and Average Age.
 
 2nd Sheet: Attrition by Gender (Lollipop Chart)
